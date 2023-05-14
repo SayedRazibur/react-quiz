@@ -1,0 +1,7 @@
+{
+  "extends": ["react-app", "react-app/jest", "prettier"],
+  "rules": {
+    "no-var": 0,
+    "no-unused-vars": "off"
+  }
+}
